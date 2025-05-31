@@ -34,7 +34,13 @@ Projede, foreach döngüsü kullanımına ait örnekler yapıldı. Ayrıca kulla
 --------------------------------------------
 Projede, geriye değer döndüren ve döndürmeyen metotlar ile alakalı hem parametreli hem parametresiz olmak üzere çeşitli örnekler yapıldı.
 
+✔**Proje 9- SQL Veri Tabanı**
+--------------------------------------------
+Projede, SQL veritabanında tablo oluşturma ve veri girişleri yapıldı. Sql ile C# arasındaki bağlantı kuruldu ve tablo listeleme işlemi gerçekleştirildi.
 
+✔**Proje 10- Tablolar Üzerinde CRUD İşlemleri**
+--------------------------------------------
+Projede, tablo üzerine veri ekleme, veri listeleme , veri güncelleme ve veri silme işlemleri yapıldı.
 
 
 
